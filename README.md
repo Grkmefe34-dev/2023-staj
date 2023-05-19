@@ -4,5 +4,6 @@
 **KURALLAR**
 
 1- ISSUE altında bulunan örnek yapıya göre lütfen hazırlayın 
+
 2- Zorunlu değil ise şuanlık başvurmayın bir çok arkadaş daha acil ihtiyacı var
 
